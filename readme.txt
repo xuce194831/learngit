@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Using no Fast forword mode
 Working on the dev branch...
+I am working on the same file.
